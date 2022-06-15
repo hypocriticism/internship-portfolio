@@ -8,7 +8,7 @@ pa4-hypocriticism-master는 대학교 컴퓨터 그래픽 강의 프로젝트입
 
 그 외의 부분은 대부분 미리 주어져 있었고 필요한 부분만 약간씩 수정했습니다.
 
-
+렌더링 결과는 report.md에 있습니다.
 
 ## 2
 
@@ -17,3 +17,4 @@ stockmarket_ML은 머신러닝 알고리즘입니다.
 stockmarket_ML/Data Center에서 주가 데이터를 수집하고 정제한 다음에
 
 stockmarket_ML/Trainer에서 학습을 시켰습니다.
+
