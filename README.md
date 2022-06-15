@@ -1,6 +1,8 @@
 # internship-portfolio
 
-1. pa4-hypocriticism-master는 대학교 컴퓨터 그래픽 강의 프로젝트입니다. neon을 활용한 레이트레이싱 구현입니다.
+## 1
+
+pa4-hypocriticism-master는 대학교 컴퓨터 그래픽 강의 프로젝트입니다. neon을 활용한 레이트레이싱 구현입니다.
 
 저는 src/neon-sandbox/main.cpp 파일을 주로 다루었습니다.
 
@@ -8,7 +10,9 @@
 
 
 
-2. stockmarket_ML은 머신러닝 알고리즘입니다.
+## 2
+
+stockmarket_ML은 머신러닝 알고리즘입니다.
 
 stockmarket_ML/Data Center에서 주가 데이터를 수집하고 정제한 다음에
 
